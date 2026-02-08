@@ -18,24 +18,41 @@ I enjoy developing backend systems, console-based applications, and real-world p
 
 ---
 
-## 📌 Featured Projects
+## 🧰 What You’ll Find Here
 
-### 🎮 Rock Paper Scissors Game (C++)
-- Console-based game with multiple rounds
-- Randomized computer logic
-- Score tracking and visual console feedback
+* 🧱 **C++ / OOP Projects**
 
-### 🧮 Math Quiz Game (C++)
-- Multiple difficulty levels and operation types
-- Random question generation
-- Pass/Fail evaluation and performance summary
+  * Console applications
+  * Practice systems
+  * Utility libraries (string utils, date utils, input validation, etc.)
+  * File handling–based projects
 
-### 🌐 MERN Stack Projects
-- Full-stack applications using MongoDB, Express, React, and Node.js
-- RESTful API development
-- Backend logic, authentication, and database integration
+* 🌐 **Full-Stack Projects**
 
-👉 Explore my repositories below 👇
+  * MERN stack applications
+  * RESTful APIs
+  * Authentication & database integration
+  * Backend-focused experiments
+
+* 🖥️ **C# Projects**
+
+  * Console and desktop applications
+  * OOP-based practice projects
+  * Small systems and utilities
+  * .NET experiments
+
+* 🗄️ **SQL & Database Projects**
+
+  * Database design and schema modeling
+  * SQL queries and reports
+  * CRUD-based mini projects
+  * Practice with data analysis and optimization
+
+* 🧪 **Learning & Practice Repos**
+
+  * Data structures & algorithms
+  * Refactoring and clean code practice
+  * Small tools and experiments
 
 ---
 
