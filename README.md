@@ -1,79 +1,78 @@
-# 👋 Hi, I'm Azzam Almassah
+# Hi, I'm Azzam Almassah
 
-💻 **Backend Developer | MERN Stack | C++ Programmer | Problem Solver**
+Backend Developer | C# | .NET | MERN Stack | C++
 
-I am a Computer Applications graduate with hands-on experience in **backend and full-stack development**. I build projects using the **MERN stack** and **C++**, focusing on clean code, logical problem-solving, and scalable application design.
+I build backend systems and practical applications with a strong focus on clean code, problem-solving, and real-world implementation.
 
-I enjoy developing backend systems, console-based applications, and real-world projects that strengthen my understanding of software engineering fundamentals. I am currently expanding my backend skill set by learning **C# and ASP.NET**, along with **SQL and relational database concepts**.
+I come from a Computer Applications background and have hands-on experience with:
 
----
-
-## 🧠 Technical Skills
-- **Languages:** C++, JavaScript, SQL (learning), C# (learning)
-- **Backend:** Node.js, Express.js, ASP.NET (learning)
-- **Frontend:** React.js, HTML, CSS
-- **Databases:** MongoDB, SQL (learning)
-- **Concepts:** OOP, Data Structures, Backend Architecture, REST APIs
-- **Tools:** Git, GitHub, Visual Studio, VS Code
+* Backend APIs (Node.js / Express)
+* System design using OOP (C++, C#)
+* Database-driven applications (MongoDB, SQL)
 
 ---
 
-## 🧰 What You’ll Find Here
+## Tech Stack
 
-* 🧱 **C++ / OOP Projects**
+**Languages**
 
-  * Console applications
-  * Practice systems
-  * Utility libraries (string utils, date utils, input validation, etc.)
-  * File handling–based projects
+* C#, C++, JavaScript, SQL
 
-* 🌐 **Full-Stack Projects**
+**Backend**
 
-  * MERN stack applications
-  * RESTful APIs
-  * Authentication & database integration
-  * Backend-focused experiments
+* ASP.NET, Node.js, Express.js
 
-* 🖥️ **C# Projects**
+**Frontend**
 
-  * Console and desktop applications
-  * OOP-based practice projects
-  * Small systems and utilities
-  * .NET experiments
+* React.js, HTML, CSS, Tailwind CSS, Bootstrap
 
-* 🗄️ **SQL & Database Projects**
+**Databases**
 
-  * Database design and schema modeling
-  * SQL queries and reports
-  * CRUD-based mini projects
-  * Practice with data analysis and optimization
+* MongoDB, SQL
 
-* 🧪 **Learning & Practice Repos**
+**Core Concepts**
 
-  * Data structures & algorithms
-  * Refactoring and clean code practice
-  * Small tools and experiments
+* OOP, Data Structures, REST APIs, Backend Architecture
 
 ---
 
-## 🎯 Currently Learning
-- Advanced Backend Development
-- C# and ASP.NET
-- SQL & Relational Databases
-- Software Design Patterns
+## Featured Work
+
+Check my pinned repositories below for my best and most complete projects.
 
 ---
 
-## 📈 Goals
-- Build production-ready backend applications
-- Strengthen problem-solving and system design skills
-- Work with both NoSQL and SQL databases in real projects
+## Project Categories
+
+* C# / .NET Projects
+* C++ Systems & Utilities
+* MERN Stack Applications
+* SQL & Database Design
+* Practice & Experiments
+
+Each repository is structured, documented, and focused on a specific concept or system.
 
 ---
 
-## 📫 Connect With Me
-- **GitHub:** https://github.com/azzamalmassah
+## How I Work
+
+* I focus on building, not just learning
+* I prefer real projects over tutorials
+* I write modular and maintainable code
+* I continuously refactor and improve past work
 
 ---
 
-⭐ Feel free to explore my repositories and share feedback!
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=azzamalmassah\&show_icons=true\&theme=default)
+
+---
+
+## Connect With Me
+
+GitHub: https://github.com/azzamalmassah
+
+---
+
+Explore my repositories and feel free to share feedback.
