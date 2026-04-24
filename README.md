@@ -63,11 +63,7 @@ Each repository is structured, documented, and focused on a specific concept or 
 
 ---
 
-## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=azzamalmassah\&show_icons=true\&theme=default)
-
----
 
 ## Connect With Me
 
